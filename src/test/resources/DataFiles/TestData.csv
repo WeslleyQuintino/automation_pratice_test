@@ -1,0 +1,9 @@
+CT;user_id;in_First_Name;in_Last_Name;in_Email;in_Page;in_Company;in_Address;in_City;in_Country;in_Home_Phone;in_Mobile_Phone;in_My_Address;in_Pesquisa_Produto
+singleUser;2;Janet;Weaver;janet.weaver@reqres.in;;;;;;;;;
+singleUserNotFound;50;;;;;;;;;;;;
+allUsersList;;;;;1;;;;;;;;
+singleUserUpdate;2;Robson;;;;Automation Enginner;;;;;;;
+compras;;;;;;;;;;;;;
+comprasDeslogado;;;;;;AutomaToma Ti;rua 1234t5 SUITE 421682;South Salt Lake, Florida 7166;United States;+1 (572) 183-3681;+55 11 999999999;casinha hmmm;
+cadastroWeb;;;;;;AutomaToma Ti;rua 1234t5 SUITE 421682;South Salt Lake, Florida 7166;United States;+1 (572) 183-3681;+55 11 999999999;casinha hmmm;
+realizarPesquisa;;;;;;;;;;;;;Faded Short Sleeve
